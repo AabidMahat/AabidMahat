@@ -1,4 +1,8 @@
-### Hi there 👋
+
+![](https://github.com/AabidMahat/AabidMahat/assets/115229298/11dcdf3a-b760-42ca-b55e-148bac8cd090)
+
+
+### Hi there It's Aabid Mahat 👋
 
 <!--
 **AabidMahat/AabidMahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
