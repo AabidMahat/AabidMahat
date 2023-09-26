@@ -2,7 +2,7 @@
 ![](https://github.com/AabidMahat/AabidMahat/assets/115229298/11dcdf3a-b760-42ca-b55e-148bac8cd090)
 
 ##Technology Stack
-![](https://github.com/AabidMahat/AabidMahat/assets/115229298/84e8bfaf-b10e-4c14-874f-be36f3dc552a)
+![pie chart](https://github.com/AabidMahat/AabidMahat/assets/115229298/fd6aa4a8-22f5-4f60-99ef-3dcecaec32e4)
 
 ### Hi there It's Aabid Mahat 👋
 
