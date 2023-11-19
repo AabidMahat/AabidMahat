@@ -2,7 +2,7 @@
 ![](https://github.com/AabidMahat/AabidMahat/assets/115229298/11dcdf3a-b760-42ca-b55e-148bac8cd090)
 
 <h1 align="center">Hi 👋, I'm Aabid Mahat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <img align="right" alt ="coding" width ="400" src = "https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidmahat&label=Profile%20views&color=0e75b6&style=flat" alt="aabidmahat" /> </p>
