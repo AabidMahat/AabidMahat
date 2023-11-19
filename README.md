@@ -1,5 +1,5 @@
 
-![](https://github.com/AabidMahat/AabidMahat/assets/115229298/11dcdf3a-b760-42ca-b55e-148bac8cd090){: width="100vw"}
+![](https://github.com/AabidMahat/AabidMahat/assets/115229298/11dcdf3a-b760-42ca-b55e-148bac8cd090)
 
 <h1 align="center">Hi 👋, I'm Aabid Mahat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
